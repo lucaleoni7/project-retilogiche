@@ -8,3 +8,5 @@ Gruppo formato da:
 Linguaggio di programmazione: VHDL
 
 Software utilizzato: Vivado
+
+### Final score: 29/30
